@@ -1,0 +1,19 @@
+.header{
+    background-color: black;
+    display: flex;
+    height:4rem;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+.header >div{
+    margin:auto;
+}
+.header >div >a{
+    font-size:20px;
+}
+.header > div :hover{
+    color: tomato;
+}
+ 
